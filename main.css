@@ -166,18 +166,20 @@ ul.nav.navbar-nav.sub-menu-nav {
 .sub-menu-nav div {
   display: inline-block;
   color: white;
-  padding: 10px;
+  padding: 7px;
 }
 .sub-menu-nav div a {
   color: white;
-  padding: 10px;
+  padding: 7px;
   text-decoration: none;
 }
 @media (max-width: 768px) {
   .sub-menu-nav div {
     display: block;
     text-align: left;
-    padding-left: 40px;
+    padding-left: 32px;
+    background-color: grey;
+    border: none;
   }
 }
 .sub-menu-nav div:hover {
