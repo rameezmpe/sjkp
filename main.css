@@ -135,8 +135,9 @@ ul.nav.navbar-nav.sub-menu-nav {
 .logo-text {
     position: absolute;
     top: 6px;
-    left: 32px;
-    font-size: 20px;
+    left: 33px;
+    font-size: 18px;
     font-weight: bold;
     color: white !important;
+    text-decoration: none;
 }
