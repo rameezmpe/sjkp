@@ -4,7 +4,7 @@
   /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   /*font-family: "Avenir LT W01_55 Roman1475520",sans-serif;*/
   overflow: none;
-  font-family: 'Open Sans',serif !important;
+  font-family: 'Raleway', sans-serif !important;
 }
 .container {
   max-width: 1200px !important;
@@ -21,13 +21,17 @@
   background-color: #f8f8f8;
 }
 .footer {
-  /*position: absolute;
-  bottom: 0;
-  width: 100%;*/
-  height: 60px;
-  line-height: 60px;
+  /*height: 60px;
+  line-height: 60px;*/
   background-color: #1d243e !important; /* logo color*/
   color: white;
+  padding: 10px 16px;
+}
+.footer2 {
+  padding: 10px 16px;
+}
+.footer2 span {
+  padding: 0px 10px 0px 0px;
 }
 .bold {
   font-weight: bold;
@@ -38,6 +42,7 @@
   margin-left: auto;
   margin-right: auto;
   font-size: 16px;
+  min-height: 300px;
 }
 .navbar-default {
   /*background-color: #0c407a;*/
