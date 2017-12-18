@@ -122,3 +122,13 @@
 .tab-pane img {
   border-radius: 5px;
 }
+.navbar-default .navbar-toggle {
+    border-color: #ddd;
+    background-color: #ddd;
+}
+.navbar-default .navbar-collapse {
+  border-color: #1d243e;
+}
+ul.nav.navbar-nav.sub-menu-nav {
+  padding-left: 26px;
+}
